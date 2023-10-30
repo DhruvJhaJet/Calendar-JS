@@ -1,2 +1,2 @@
-# Calendar-JS-
-Calendar in JavaScript
+# Calendar-JS
+Calendar in JavaScript 🗓️📆
